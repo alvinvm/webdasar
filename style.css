@@ -5,9 +5,23 @@ label {
     
 }
 body {
-    background-color: #042642;
+    background-color: #b0c9dd;
   }
 #table{
     margin: 20px 0px 50px 30px;
     background-color: #1c2629; 
     padding: 20px
+}
+
+
+#warna{
+    color: #edeff0;
+    font-family:'Roboto';
+    background-color: rgb(175, 145, 189);
+    margin: 20px 800px 50px 10px;
+}
+
+#tabela {
+    margin: 100px 0px 500px 30px;
+    background-color: rgb(223, 180, 243);
+}
