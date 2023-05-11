@@ -29,8 +29,8 @@ if ($conn->query($sql)) {
             echo "<td>".$row['nim']."</td><td>"
                  .$row['nama']."</td><td>"
                  .$row['jenis_kelamin']."</td><td>"
-                 .$row['tpt_lahir']."</td><td>"
-                 .$row['tgl_lahir']."</td><td>"
+                 .$row['tempat-lahir']."</td><td>"
+                 .$row['tanggal-lahir']."</td><td>"
                  .$row['alamat']."</td>";
         ?>
         </tr>
